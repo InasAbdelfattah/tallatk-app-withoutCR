@@ -1,0 +1,98 @@
+[15-Apr-2018 13:50:49 UTC] PHP Fatal error:  Cannot use empty array elements in arrays in /home/tallatkapp/public_html/app/Http/Controllers/Admin/UserDiscountsController.php on line 53
+[03-May-2018 12:24:48 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-May-2018 12:33:55 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-May-2018 12:38:22 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-May-2018 12:43:40 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-May-2018 12:51:31 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[03-May-2018 15:52:26 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[03-May-2018 15:52:26 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exc in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[03-May-2018 15:52:47 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[03-May-2018 15:52:47 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exc in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[03-May-2018 15:52:50 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(ErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(ErrorException))
+#3 [internal function]: Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(ErrorException))
+#4 {main}
+  thrown in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[03-May-2018 15:52:50 Asia/Riyadh] PHP Fatal error:  Uncaught ErrorException: Undefined variable: e in /home/tallatkapp/public_html/app/Exceptions/Handler.php:51
+Stack trace:
+#0 /home/tallatkapp/public_html/app/Exceptions/Handler.php(51): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError(8, 'Undefined varia...', '/home/tallatkap...', 51, Array)
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(112): App\Exceptions\Handler->render(Object(Illuminate\Http\Request), Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(89): Illuminate\Foundation\Bootstrap\HandleExceptions->renderHttpResponse(Object(Symfony\Component\Debug\Exception\FatalErrorException))
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(123): Illuminate\Foundation\Bootstrap\HandleExceptions->handleException(Object(Symfony\Component\Debug\Exc in /home/tallatkapp/public_html/app/Exceptions/Handler.php on line 51
+[06-May-2018 07:52:27 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 08:10:53 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 13:55:11 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 13:55:47 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 14:06:58 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 14:10:06 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 14:12:21 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 17:12:24 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 71053312 bytes) in /home/tallatkapp/public_html/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php on line 43
+[06-May-2018 14:14:06 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 14:38:42 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[06-May-2018 17:38:45 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 71053312 bytes) in /home/tallatkapp/public_html/vendor/filp/whoops/src/Whoops/Resources/views/frame_code.html.php on line 43
+[06-May-2018 15:02:30 UTC] PHP Warning:  Missing boundary in multipart/form-data POST data in Unknown on line 0
+[30-Jul-2018 09:19:45 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(971 in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[30-Jul-2018 09:20:03 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(971 in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[30-Jul-2018 09:20:06 UTC] PHP Fatal error:  Uncaught ReflectionException: Class view does not exist in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php:752
+Stack trace:
+#0 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(752): ReflectionClass->__construct('view')
+#1 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(631): Illuminate\Container\Container->build('view')
+#2 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php(586): Illuminate\Container\Container->resolve('view', Array)
+#3 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(732): Illuminate\Container\Container->make('view', Array)
+#4 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(110): Illuminate\Foundation\Application->make('view', Array)
+#5 /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Foundation/helpers.php(971 in /home/tallatkapp/public_html/vendor/laravel/framework/src/Illuminate/Container/Container.php on line 752
+[28-Aug-2018 11:41:58 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:41:58 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:42:06 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:42:06 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:42:58 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:42:58 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:45 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:45 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:46 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:46 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:57 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:43:57 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:44:05 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
+[28-Aug-2018 11:44:05 Asia/Riyadh] PHP Fatal error:  Allowed memory size of 134217728 bytes exhausted (tried to allocate 20480 bytes) in /home/hairstyle/public_html/vendor/laravel/framework/src/Illuminate/Database/Connectors/Connector.php on line 67
